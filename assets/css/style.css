@@ -1,0 +1,14 @@
+#overide .navbar{
+    background: rgba(0, 30, 75, 0.75);
+    border-bottom: rgba(255, 255, 255, 0.445) solid 1px;
+    
+}
+
+#overide .nav-link:hover{
+    background: rgba(255,255,255,0.1);
+    font-size: large;
+
+    border-bottom: #e5edf4 solid 1px;
+    border-top: #e5edf4 solid 1px;
+    
+}
